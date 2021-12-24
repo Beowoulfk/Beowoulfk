@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beowoulfk
-- 👀 I’m interested in Machine Learning and computer vision
+- 👀 I’m interested in Data engineering 
 - 🌱 I’m currently learning  ML, CV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
