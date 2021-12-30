@@ -9,8 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # MY STATS :computer:
-<img align="left" alt="Beowoulfk GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Beowoulfk&include_all_commits=true&show_icons=true&theme=tokyonight">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beowoulfk&langs_count=8&theme=tokyonight)](https://github.com/Beowoulfk/Beowoulfk/blob/main/README.md)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Beowoulfk&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Beowoulfk&langs_count=5&theme=tokyonight)]()
 
 
