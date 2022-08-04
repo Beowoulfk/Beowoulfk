@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beowoulfk
 - 👀 I’m interested in Data engineering 
-- 🌱 I’m currently learning  ML, CV, Spark and Big Data
+- 🌱 I’m currently learning  Spark and Big Data
 - 💞️ I’m looking to collaborate on ...
 
 <!---
