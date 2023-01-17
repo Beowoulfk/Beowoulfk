@@ -10,10 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 # MY STATS :computer:
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Beowoulfk&show_icons=true&theme=dracula" />
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=Beowoulfk&show_icons=true&theme=dracula" />
 </a>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beowoulfk&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beowoulfk&langs_count=8" />
 </a>
